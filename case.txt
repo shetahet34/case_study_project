@@ -1,0 +1,11 @@
+1.Low usage leads to churn: Customers with very few total sessions (1–5) are far more likely to churn.
+Suggestion: Monitor usage drops and trigger re-engagement actions early.
+
+2.Poor feedback predicts churn: Churned users mostly gave feedback scores between 2–4.
+Suggestion: Proactively follow up with customers who submit low feedback.
+
+3.Monthly plans are riskier: Monthly subscribers show higher churn compared to quarterly and yearly users.
+Suggestion: Encourage engaged monthly users to switch to longer-term plans.
+
+4.Recency matters: Long gaps since last login are common among churned customers.
+Suggestion: Set inactivity alerts and send reminders or offers before disengagement deepens.
